@@ -6,7 +6,7 @@
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Whitney%20Cai-blue?logo=linkedin)](https://www.linkedin.com/in/whitneycai/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Whitney%20Cai-blue?logo=linkedin)](https://www.linkedin.com/in/whitney-cai-715a38180)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-7E3FF2)]()
 [![Built Ascend](https://img.shields.io/badge/AI%20SaaS-Ascend%20Property%20Mgmt-2CADFE)]()
 [![Built Syntara](https://img.shields.io/badge/AI%20Customer%20Support-Syntara%20Digital-7E3FF2)]()
@@ -85,7 +85,7 @@ I love turning messy data and manual processes into sleek, scalable web applicat
 
 ## 🔗 Let’s Connect
 
-📫 [LinkedIn](https://www.linkedin.com/in/whitneycai/)  
+📫 [LinkedIn](https://www.linkedin.com/in/whitney-cai-715a38180)  
 🌐 Portfolio: Coming soon!  
 💬 Open to collaborations on AI-driven full-stack projects
 
