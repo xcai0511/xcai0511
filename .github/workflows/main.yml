@@ -2,16 +2,17 @@ name: generate animation
 
 on:
   schedule:
-    - cron: "0 */24 * * *"  # every 24 hours
+    - cron: "0 */24 * * *"
   workflow_dispatch:
   push:
-    branches:
-      - main
+    branches: [ main ]
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+    permissions:
+      contents: write         # <-- REQUIRED to push to `output`
 
     steps:
       - name: generate github-contribution-grid-snake.svg
