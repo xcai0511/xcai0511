@@ -7,7 +7,6 @@
 ---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Whitney%20Cai-blue?logo=linkedin)](https://www.linkedin.com/in/whitney-cai-715a38180)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-7E3FF2)]()
 [![Built Ascend](https://img.shields.io/badge/AI%20SaaS-Ascend%20Property%20Mgmt-2CADFE)]()
 [![Built Syntara](https://img.shields.io/badge/AI%20Customer%20Support-Syntara%20Digital-7E3FF2)]()
 [![Coffee Powered](https://img.shields.io/badge/Coffee-Powered-brown?logo=buy-me-a-coffee)]()
